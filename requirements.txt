@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+selenium
+beautifulsoup4
+pypdf==6.21.2
+torch
+transformers
+accelerate
+great_tables
